@@ -1,0 +1,9 @@
+Output/
+Listings/
+Objects/
+*.uvguix
+*.uvguix.*
+*.ini
+*.HEX
+*.bkp
+*.scvd
